@@ -11,7 +11,7 @@ sites:
     url: 'https://explore.okp4.network'
   - name: Nemeton Program Web Site
     url: 'https://nemeton.okp4.network'
-  - name: Network okp4-nemeton-1
+  - name: RPC okp4-nemeton-1
     url: >-
       https://api.testnet.okp4.network/cosmos/base/tendermint/v1beta1/blocks/latest
 status-website:
