@@ -90,10 +90,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Network okp4-nemeton-1",
+    "name": "RPC okp4-nemeton-1",
     "url": "https://api.testnet.okp4.network/cosmos/base/tendermint/v1beta1/blocks/latest",
     "icon": "https://icons.duckduckgo.com/ip3/api.testnet.okp4.network.ico",
-    "slug": "network-okp4-nemeton-1",
+    "slug": "rpc-okp4-nemeton-1",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
