@@ -1,5 +1,5 @@
 owner: okp4
-repo: uptime
+repo: status
 sites:
   - name: OKP4 Web Site
     url: 'https://okp4.network'
@@ -15,7 +15,7 @@ sites:
     url: >-
       https://api.testnet.okp4.network/cosmos/base/tendermint/v1beta1/blocks/latest
 status-website:
-  cname: uptime.okp4.network
+  cname: status.okp4.network
   theme: dark
   logoUrl: >-
     https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/okp4-square-signs-white-bg.png
