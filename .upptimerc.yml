@@ -2,36 +2,38 @@ owner: okp4
 repo: status
 sites:
   - name: OKP4 Web Site
-    url: 'https://okp4.network'
+    url: "https://okp4.network"
   - name: OKP4 Documentation Site
-    url: 'https://docs.okp4.network'
+    url: "https://docs.okp4.network"
   - name: OKP4 Faucet
-    url: 'https://faucet.okp4.network'
+    url: "https://faucet.okp4.network"
   - name: OKP4 Explorer
-    url: 'https://explore.okp4.network'
+    url: "https://explore.okp4.network"
   - name: Nemeton Program Web Site
-    url: 'https://nemeton.okp4.network'
+    url: "https://nemeton.okp4.network"
   - name: RPC okp4-nemeton-1
     url: >-
       https://api.testnet.okp4.network/cosmos/base/tendermint/v1beta1/blocks/latest
+
 status-website:
   cname: status.okp4.network
-  theme: dark
+  theme: light
+  themeUrl: "https://status.okp4.network/okp4-theme.css"
   logoUrl: >-
-    https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/okp4-square-signs-white-bg.png
+    https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/okp4-square-signs-without-background.png
   faviconSvg: >-
     https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/favicon-gradient.svg
-  favicon: 'https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/favicon.png'
-  name: OKP4 uptime
-  introTitle: '**OKP4 Status**'
+  favicon: "https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/favicon.png"
+  name: OKP4 status
+  introTitle: "**OKP4 Status**"
   introMessage: This page shows **real-time** status of the OKP4 services and API.
   navbar:
     - title: Status
       href: /
     - title: OKP4
-      href: 'https://okp4.network'
+      href: "https://okp4.network"
     - title: GitHub
-      href: 'https://github.com/$OWNER/$REPO'
+      href: "https://github.com/$OWNER/$REPO"
 assignees:
   - amimart
   - ccamel
