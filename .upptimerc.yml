@@ -1,31 +1,37 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: okp4
+repo: uptime
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: OKP4 Web Site
+    url: 'https://okp4.network'
+  - name: OKP4 Documentation Site
+    url: 'https://docs.okp4.network'
+  - name: OKP4 Faucet
+    url: 'https://faucet.okp4.network'
+  - name: OKP4 Explorer
+    url: 'https://explore.okp4.network'
+  - name: Nemeton Program Web Site
+    url: 'https://nemeton.okp4.network'
+  - name: RPC okp4-nemeton-1
+    url: >-
+      https://api.testnet.okp4.network/cosmos/base/tendermint/v1beta1/blocks/latest
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: uptime.okp4.network
+  theme: dark
+  logoUrl: >-
+    https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/okp4-square-signs-white-bg.png
+  faviconSvg: >-
+    https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/favicon-gradient.svg
+  favicon: 'https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/favicon.png'
+  name: OKP4 uptime
+  introTitle: '**OKP4 Status**'
+  introMessage: This page shows **real-time** status of the OKP4 services and API.
   navbar:
     - title: Status
       href: /
+    - title: OKP4
+      href: 'https://okp4.network'
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: 'https://github.com/$OWNER/$REPO'
+assignees:
+  - amimart
+  - ccamel
