@@ -17,7 +17,6 @@ sites:
 
 status-website:
   cname: status.okp4.network
-  theme: light
   themeUrl: "https://status.okp4.network/okp4-theme.css"
   logoUrl: >-
     https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/okp4-square-signs-without-background.png
@@ -25,15 +24,18 @@ status-website:
     https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/favicon-gradient.svg
   favicon: "https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/favicon.png"
   name: OKP4 status
-  introTitle: "**OKP4 Status**"
-  introMessage: This page shows **real-time** status of the OKP4 services and API.
+  introTitle: "**OKP4** status and uptime page"
+  introMessage: This page shows current status of the OKP4 services and API.
   navbar:
     - title: Status
       href: /
     - title: OKP4
       href: "https://okp4.network"
     - title: GitHub
-      href: "https://github.com/$OWNER/$REPO"
+      href: "https://github.com/$OWNER"
 assignees:
   - amimart
   - ccamel
+
+i18n:
+  footer: "[OKP4](https://okp4/network) / [Docs](https://docs.okp4.network) / [Discord](https://discord.gg/okp4) / [Twitter](https://twitter.com/OKP4_Protocol) / [Contribute](https://github.com/okp4)"
