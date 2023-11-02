@@ -94,19 +94,19 @@
     "url": "https://api.testnet.okp4.network/cosmos/base/tendermint/v1beta1/blocks/latest",
     "icon": "https://icons.duckduckgo.com/ip3/api.testnet.okp4.network.ico",
     "slug": "rpc-okp4-nemeton-1",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1893,
-    "timeDay": 1893,
-    "timeWeek": 1893,
-    "timeMonth": 1893,
-    "timeYear": 1893,
+    "status": "up",
+    "uptime": "77.97%",
+    "uptimeDay": "77.97%",
+    "uptimeWeek": "77.97%",
+    "uptimeMonth": "77.97%",
+    "uptimeYear": "77.97%",
+    "time": 1647,
+    "timeDay": 1647,
+    "timeWeek": 1647,
+    "timeMonth": 1647,
+    "timeYear": 1647,
     "dailyMinutesDown": {
-      "2023-11-02": 0
+      "2023-11-02": 38
     }
   }
 ]
