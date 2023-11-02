@@ -4,6 +4,8 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+    commit-message:
+      prefix: ":arrow_up:"
     reviewers:
       - amimart
       - ccamel
