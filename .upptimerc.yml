@@ -17,7 +17,7 @@ sites:
 
 status-website:
   cname: status.okp4.network
-  themeUrl: "https://raw.githubusercontent.com/okp4/status/main/assets/okp4-theme.css"
+  theme: light
   logoUrl: >-
     https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/okp4-square-signs-without-background.png
   faviconSvg: >-
