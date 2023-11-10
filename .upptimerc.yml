@@ -12,8 +12,16 @@ sites:
   - name: Nemeton Program Web Site
     url: "https://nemeton.okp4.network"
   - name: RPC okp4-nemeton-1
-    url: >-
-      https://api.testnet.okp4.network/cosmos/base/tendermint/v1beta1/blocks/latest
+    url: "https://api.testnet.okp4.network/cosmos/base/tendermint/v1beta1/blocks/latest"
+  - name: Subquery GraphQL API okp4-nemeton-1
+    method: POST
+    url: "https://api.subquery.network/sq/okp4/nemeton-1"
+    headers:
+      - "Accept: application/json"
+      - "Content-Type: application/json"
+      - "Host: api.subquery.network"
+    body: '{ "query": "{blocks(last: 1) { nodes { chainId height } } }" }'
+    __dangerous__body_degraded: errors
 
 status-website:
   cname: status.okp4.network
