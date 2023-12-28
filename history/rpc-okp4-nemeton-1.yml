@@ -1,7 +1,7 @@
 url: https://api.testnet.okp4.network/cosmos/base/tendermint/v1beta1/blocks/latest
-status: down
-code: 404
-responseTime: 583
-lastUpdated: 2023-12-28T09:43:56.693Z
+status: up
+code: 200
+responseTime: 926
+lastUpdated: 2023-12-28T09:55:55.887Z
 startTime: 2023-11-02T09:45:25.939Z
 generator: Upptime <https://github.com/upptime/upptime>
