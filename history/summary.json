@@ -134,19 +134,19 @@
     "url": "https://api.subquery.network/sq/okp4/nemeton-1",
     "icon": "https://icons.duckduckgo.com/ip3/api.subquery.network.ico",
     "slug": "subquery-graph-ql-api-okp4-nemeton-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 611,
-    "timeDay": 663,
-    "timeWeek": 571,
-    "timeMonth": 591,
+    "timeDay": 628,
+    "timeWeek": 570,
+    "timeMonth": 590,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2024-02-01": 0
+      "2024-02-01": 9
     }
   }
 ]
