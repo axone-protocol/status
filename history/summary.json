@@ -91,10 +91,10 @@
     "url": "https://nemeton.okp4.network",
     "icon": "https://icons.duckduckgo.com/ip3/nemeton.okp4.network.ico",
     "slug": "nemeton-program-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
     "time": 750,
@@ -103,6 +103,7 @@
     "timeMonth": 765,
     "timeYear": 750,
     "dailyMinutesDown": {
+      "2024-02-26": 1,
       "2023-12-16": 1254,
       "2023-12-15": 1357
     }
