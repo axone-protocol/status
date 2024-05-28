@@ -28,6 +28,7 @@ status-website:
   theme: dark
   logoUrl: >-
     https://raw.githubusercontent.com/axone-protocol/status/main/assets/axone-m0-white-transparent-1024.png
+  name: ""
   favicon: "https://raw.githubusercontent.com/axone-protocol/status/main/assets/favicon.png"
   introTitle: "**Axone** status and uptime page"
   introMessage: This page shows current status of the Axone services and API.
