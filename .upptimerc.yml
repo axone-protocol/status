@@ -1,19 +1,19 @@
-owner: okp4
+owner: axone-protocol
 repo: status
 sites:
-  - name: OKP4 Web Site
-    url: "https://okp4.network"
-  - name: OKP4 Documentation Site
-    url: "https://docs.okp4.network"
-  - name: OKP4 Faucet
+  - name: Axone Web Site
+    url: "https://axone.xyz"
+  - name: Axone Documentation Site
+    url: "https://docs.axone.xyz"
+  - name: Axone Faucet
     url: "https://faucet.okp4.network"
-  - name: OKP4 Explorer
+  - name: Axone Explorer
     url: "https://explore.okp4.network"
   - name: Nemeton Program Web Site
     url: "https://nemeton.okp4.network"
-  - name: RPC okp4-nemeton-1
-    url: "https://api.testnet.okp4.network/cosmos/base/tendermint/v1beta1/blocks/latest"
-  - name: Subquery GraphQL API okp4-nemeton-1
+  - name: RPC drunemeton-1
+    url: "https://api.drunemeton.okp4.network/cosmos/base/tendermint/v1beta1/blocks/latest"
+  - name: Subquery GraphQL API nemeton-1
     method: POST
     url: "https://api.subquery.network/sq/okp4/nemeton-1"
     headers:
@@ -24,21 +24,18 @@ sites:
     __dangerous__body_degraded: errors
 
 status-website:
-  cname: status.okp4.network
-  theme: light
+  cname: status.axone.xyz
+  theme: dark
   logoUrl: >-
-    https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/okp4-square-signs-without-background.png
-  faviconSvg: >-
-    https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/favicon-gradient.svg
-  favicon: "https://raw.githubusercontent.com/okp4/brand-kit/main/01-Logos/favicon.png"
-  name: OKP4 status
-  introTitle: "**OKP4** status and uptime page"
-  introMessage: This page shows current status of the OKP4 services and API.
+    https://raw.githubusercontent.com/axone-protocol/status/main/assets/axone-m0-white-transparent-1024.png
+  favicon: "https://raw.githubusercontent.com/axone-protocol/status/main/assets/favicon.png"
+  introTitle: "**Axone** status and uptime page"
+  introMessage: This page shows current status of the Axone services and API.
   navbar:
     - title: Status
       href: /
-    - title: OKP4
-      href: "https://okp4.network"
+    - title: Axone
+      href: "https://axone.xyz"
     - title: GitHub
       href: "https://github.com/$OWNER"
 assignees:
@@ -46,4 +43,4 @@ assignees:
   - ccamel
 
 i18n:
-  footer: "[OKP4](https://okp4/network) / [Docs](https://docs.okp4.network) / [Discord](https://discord.gg/okp4) / [Twitter](https://twitter.com/OKP4_Protocol) / [Contribute](https://github.com/okp4)"
+  footer: "[Axone](https://axone.xyz) / [Docs](https://docs.axone.xyz) / [Discord](https://discord.gg/axone) / [X](https://twitter.com/axonexyz) / [Contribute](https://github.com/axone-protocol)"
