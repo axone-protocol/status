@@ -43,5 +43,5 @@ Key Components:
 This repository contains different types of materials, each under its own license:
 
 - Materials derived from [Upptime](https://github.com/upptime/upptime) are licensed under the [MIT License](./LICENSE-UPPTIME).
-- Materials originating from [OKP4](https://okp4.network) are licensed under the [BSD 3-Clause License](./LICENSE).
+- Materials originating from [Axone](https://axone.xyz) are licensed under the [BSD 3-Clause License](./LICENSE).
 - Data within the `./history` directory is made available under the [Open Database License (ODbL)](./LICENSE-DATA).
