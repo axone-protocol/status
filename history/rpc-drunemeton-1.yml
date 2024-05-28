@@ -1,7 +1,7 @@
 url: https://api.drunemeton.okp4.network/cosmos/base/tendermint/v1beta1/blocks/latest
 status: up
 code: 200
-responseTime: 874
-lastUpdated: 2024-05-28T16:02:24.448Z
+responseTime: 1019
+lastUpdated: 2024-05-28T23:04:18.857Z
 startTime: 2024-05-28T09:51:18.288Z
 generator: Upptime <https://github.com/upptime/upptime>
