@@ -9,6 +9,8 @@ sites:
     url: "https://faucet.okp4.network"
   - name: Axone Explorer
     url: "https://explore.okp4.network"
+  - name: KatAI
+    url: "https://katai.axone.xyz"
   - name: Nemeton Program Web Site
     url: "https://nemeton.okp4.network"
   - name: RPC drunemeton-1
