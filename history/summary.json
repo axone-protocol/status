@@ -72,6 +72,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "KatAI",
+    "url": "https://katai.axone.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/katai.axone.xyz.ico",
+    "slug": "kat-ai",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Nemeton Program Web Site",
     "url": "https://nemeton.okp4.network",
     "icon": "https://icons.duckduckgo.com/ip3/nemeton.okp4.network.ico",
