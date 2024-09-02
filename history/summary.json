@@ -42,10 +42,10 @@
     "url": "https://faucet.okp4.network",
     "icon": "https://icons.duckduckgo.com/ip3/faucet.okp4.network.ico",
     "slug": "axone-faucet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 710,
@@ -53,17 +53,19 @@
     "timeWeek": 701,
     "timeMonth": 704,
     "timeYear": 710,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-02": 2
+    }
   },
   {
     "name": "Axone Explorer",
     "url": "https://explore.okp4.network",
     "icon": "https://icons.duckduckgo.com/ip3/explore.okp4.network.ico",
     "slug": "axone-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 694,
@@ -71,7 +73,9 @@
     "timeWeek": 734,
     "timeMonth": 806,
     "timeYear": 694,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-02": 1
+    }
   },
   {
     "name": "KatAI",
@@ -96,10 +100,10 @@
     "url": "https://nemeton.okp4.network",
     "icon": "https://icons.duckduckgo.com/ip3/nemeton.okp4.network.ico",
     "slug": "nemeton-program-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 948,
@@ -108,6 +112,7 @@
     "timeMonth": 830,
     "timeYear": 948,
     "dailyMinutesDown": {
+      "2024-09-02": 1,
       "2024-02-26": 22,
       "2023-12-16": 1254,
       "2023-12-15": 1357
@@ -118,9 +123,9 @@
     "url": "https://api.drunemeton.okp4.network/cosmos/base/tendermint/v1beta1/blocks/latest",
     "icon": "https://icons.duckduckgo.com/ip3/api.drunemeton.okp4.network.ico",
     "slug": "rpc-drunemeton-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -129,7 +134,9 @@
     "timeWeek": 782,
     "timeMonth": 752,
     "timeYear": 746,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-02": 0
+    }
   },
   {
     "name": "Subquery GraphQL API nemeton-1",
