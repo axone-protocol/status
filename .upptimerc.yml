@@ -8,7 +8,7 @@ sites:
   - name: Axone Faucet
     url: "https://faucet.okp4.network"
   - name: Axone Explorer
-    url: "https://explore.okp4.network"
+    url: "https://explore.axone.xyz"
   - name: KatAI
     url: "https://katai.axone.xyz"
   - name: Nemeton Program Web Site
