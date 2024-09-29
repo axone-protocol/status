@@ -8,13 +8,13 @@ sites:
   - name: Axone Faucet
     url: "https://faucet.okp4.network"
   - name: Axone Explorer
-    url: "https://explore.okp4.network"
+    url: "https://explore.axone.xyz"
   - name: KatAI
     url: "https://katai.axone.xyz"
   - name: Nemeton Program Web Site
     url: "https://nemeton.okp4.network"
-  - name: RPC drunemeton-1
-    url: "https://api.drunemeton.okp4.network/cosmos/base/tendermint/v1beta1/blocks/latest"
+  - name: RPC dentrite-1
+    url: "https://api.dentrite.axone.xyz/cosmos/base/tendermint/v1beta1/blocks/latest"
   - name: Subquery GraphQL API nemeton-1
     method: POST
     url: "https://api.subquery.network/sq/okp4/nemeton-1"
