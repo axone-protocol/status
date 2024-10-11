@@ -1,7 +1,7 @@
 url: https://api.subquery.network/sq/okp4/nemeton-1
-status: down
-code: 503
-responseTime: 755
-lastUpdated: 2024-10-11T14:47:39.047Z
+status: up
+code: 200
+responseTime: 1341
+lastUpdated: 2024-10-11T14:54:31.333Z
 startTime: 2024-05-28T09:51:19.480Z
 generator: Upptime <https://github.com/upptime/upptime>
