@@ -84,9 +84,9 @@
     "url": "https://katai.axone.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/katai.axone.xyz.ico",
     "slug": "kat-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,7 +95,9 @@
     "timeWeek": 89,
     "timeMonth": 115,
     "timeYear": 109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-15": 0
+    }
   },
   {
     "name": "Nemeton Program Web Site",
