@@ -26,19 +26,19 @@
     "url": "https://docs.axone.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/docs.axone.xyz.ico",
     "slug": "axone-documentation-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 136,
-    "timeWeek": 111,
-    "timeMonth": 383,
+    "timeDay": 113,
+    "timeWeek": 108,
+    "timeMonth": 374,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-11-02": 0
+      "2024-11-02": 9
     }
   },
   {
