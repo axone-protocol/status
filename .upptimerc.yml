@@ -55,7 +55,6 @@ status-website:
     - title: GitHub
       href: "https://github.com/$OWNER"
 assignees:
-  - amimart
   - ccamel
 
 i18n:
