@@ -13,6 +13,17 @@ sites:
     url: "https://katai.axone.xyz"
   - name: KatAI Web App
     url: "https://play.katai.axone.xyz"
+  - name: KatAI backend
+    url: "https://api.katai.axone.xyz"
+    headers:
+      - "Accept: application/json"
+      - "Content-Type: application/json"
+    body: "query { noop }"
+    __dangerous__body_degraded: errors
+  - name: S3 Axone
+    url: "https://s3.axone.xyz/you_shall_not_pass.gandalf"
+    expectedStatusCodes:
+      - 401
   - name: Nemeton Program Web Site
     url: "https://nemeton.okp4.network"
   - name: RPC dentrite-1
