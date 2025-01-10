@@ -1,0 +1,22 @@
+language: "en-US"
+early_access: true
+tone_instructions: >-
+  Use a professorial, pedagogical tone. Highlight potential problems in a benevolent way, offering actionable
+  recommendations for improvement where possible.
+reviews:
+  profile: "chill"
+  request_changes_workflow: true
+  high_level_summary: true
+  poem: false
+  review_status: true
+  collapse_walkthrough: false
+  path_filters:
+    - "!api/**"
+    - "!graph/**"
+    - "!history/**"
+  auto_review:
+    enabled: true
+    drafts: false
+    auto_incremental_review: false
+chat:
+  auto_reply: true
