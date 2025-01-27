@@ -26,7 +26,7 @@ sites:
       - 401
   - name: Nemeton Program Web Site
     url: "https://nemeton.okp4.network"
-  - name: RPC dentrite-1
+  - name: axone-dentrite - Axone node REST
     url: "https://api.dentrite.axone.xyz/cosmos/base/tendermint/v1beta1/blocks/latest"
   - name: Subquery GraphQL API nemeton-1
     method: POST
