@@ -32,6 +32,8 @@ sites:
     url: "https://api.dentrite.axone.xyz/rpc/block"
   - name: axone-dentrite - Jayjay node REST
     url: "https://axone-api.jayjayinfra.space/cosmos/base/tendermint/v1beta1/blocks/latest"
+  - name: axone-dentrite - Jayjay node RPC
+    url: "https://axone-rpc.jayjayinfra.space/block"
   - name: Subquery GraphQL API nemeton-1
     method: POST
     url: "https://api.subquery.network/sq/okp4/nemeton-1"
