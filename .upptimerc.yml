@@ -28,6 +28,8 @@ sites:
     url: "https://nemeton.okp4.network"
   - name: axone-dentrite - Axone node REST
     url: "https://api.dentrite.axone.xyz/cosmos/base/tendermint/v1beta1/blocks/latest"
+  - name: axone-dentrite - Axone node RPC
+    url: "https://api.dentrite.axone.xyz/rpc/block"
   - name: Subquery GraphQL API nemeton-1
     method: POST
     url: "https://api.subquery.network/sq/okp4/nemeton-1"
