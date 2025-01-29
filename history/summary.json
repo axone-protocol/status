@@ -206,19 +206,19 @@
     "url": "https://api.dentrite.axone.xyz/cosmos/base/tendermint/v1beta1/blocks/latest",
     "icon": "https://icons.duckduckgo.com/ip3/api.dentrite.axone.xyz.ico",
     "slug": "axone-dentrite-axone-node-rest",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 496,
-    "timeDay": 508,
-    "timeWeek": 496,
-    "timeMonth": 496,
-    "timeYear": 496,
+    "status": "up",
+    "uptime": "99.30%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
+    "time": 533,
+    "timeDay": 565,
+    "timeWeek": 533,
+    "timeMonth": 533,
+    "timeYear": 533,
     "dailyMinutesDown": {
-      "2025-01-29": 0
+      "2025-01-29": 18
     }
   },
   {
