@@ -1,7 +1,7 @@
 url: https://katai.axone.xyz
-status: up
-code: 200
-responseTime: 401
-lastUpdated: 2025-02-04T23:15:57.436Z
+status: down
+code: 429
+responseTime: 111
+lastUpdated: 2025-02-05T10:16:25.069Z
 startTime: 2024-11-07T10:40:37.621Z
 generator: Upptime <https://github.com/upptime/upptime>
