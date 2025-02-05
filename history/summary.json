@@ -103,19 +103,19 @@
     "url": "https://katai.axone.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/katai.axone.xyz.ico",
     "slug": "kat-ai-landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.72%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 294,
-    "timeDay": 230,
-    "timeWeek": 265,
-    "timeMonth": 278,
+    "timeDay": 237,
+    "timeWeek": 268,
+    "timeMonth": 279,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2025-02-05": 32
+      "2025-02-05": 39
     }
   },
   {
