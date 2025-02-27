@@ -1,7 +1,7 @@
 url: https://s3.axone.xyz/you_shall_not_pass.gandalf
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-26T23:20:02.923Z
+status: up
+code: 401
+responseTime: 338
+lastUpdated: 2025-02-27T16:27:12.512Z
 startTime: 2024-12-31T15:14:05.062Z
 generator: Upptime <https://github.com/upptime/upptime>
