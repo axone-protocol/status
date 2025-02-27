@@ -5,6 +5,8 @@ sites:
     url: "https://axone.xyz"
   - name: Axone Documentation Site
     url: "https://docs.axone.xyz"
+  - name: Axone Agentic Airdrop Web Site
+    url: "https://airdrop.axone.xyz"
   - name: Axone Faucet
     url: "https://faucet.okp4.network"
   - name: Axone Explorer
