@@ -1,7 +1,7 @@
 url: https://api.dentrite.axone.xyz/cosmos/base/tendermint/v1beta1/blocks/latest
-status: down
-code: 404
-responseTime: 332
-lastUpdated: 2025-02-28T15:29:34.609Z
+status: up
+code: 200
+responseTime: 470
+lastUpdated: 2025-02-28T16:56:25.507Z
 startTime: 2025-01-27T19:48:57.594Z
 generator: Upptime <https://github.com/upptime/upptime>
