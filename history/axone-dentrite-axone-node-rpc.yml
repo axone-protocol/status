@@ -1,7 +1,7 @@
 url: https://api.dentrite.axone.xyz/rpc/block
-status: down
-code: 404
-responseTime: 89
-lastUpdated: 2025-02-28T06:39:56.490Z
+status: up
+code: 200
+responseTime: 152
+lastUpdated: 2025-02-28T06:56:41.631Z
 startTime: 2025-01-27T19:48:58.478Z
 generator: Upptime <https://github.com/upptime/upptime>
