@@ -45,19 +45,19 @@
     "url": "https://airdrop.axone.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/airdrop.axone.xyz.ico",
     "slug": "axone-agentic-airdrop-web-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 82,
-    "timeWeek": 107,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 192,
+    "timeDay": 180,
+    "timeWeek": 128,
+    "timeMonth": 192,
+    "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-03-24": 0
+      "2025-03-24": 24
     }
   },
   {
