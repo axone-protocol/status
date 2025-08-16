@@ -1,7 +1,7 @@
 url: https://axone-api.jayjayinfra.space/cosmos/base/tendermint/v1beta1/blocks/latest
 status: up
 code: 200
-responseTime: 980
-lastUpdated: 2025-08-15T23:16:53.962Z
+responseTime: 660
+lastUpdated: 2025-08-16T23:15:30.861Z
 startTime: 2025-01-27T19:48:58.882Z
 generator: Upptime <https://github.com/upptime/upptime>
