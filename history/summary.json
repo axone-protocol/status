@@ -29,9 +29,9 @@
     "slug": "axone-documentation-site",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.45%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 159,
     "timeDay": 86,
@@ -39,7 +39,7 @@
     "timeMonth": 104,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-08-25": 51
+      "2025-08-25": 44
     }
   },
   {
@@ -49,9 +49,9 @@
     "slug": "axone-agentic-airdrop-web-site",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 210,
     "timeDay": 158,
@@ -59,7 +59,7 @@
     "timeMonth": 233,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2025-08-25": 50,
+      "2025-08-25": 43,
       "2025-03-24": 24
     }
   },
@@ -161,9 +161,9 @@
     "slug": "kat-ai-web-app",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 110,
     "timeDay": 72,
@@ -171,7 +171,7 @@
     "timeMonth": 102,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-08-25": 50
+      "2025-08-25": 43
     }
   },
   {
@@ -206,18 +206,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/s3.axone.xyz.ico",
     "slug": "s3-axone",
     "status": "down",
-    "uptime": "92.22%",
+    "uptime": "92.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.75%",
-    "uptimeYear": "92.22%",
+    "uptimeMonth": "42.55%",
+    "uptimeYear": "92.20%",
     "time": 439,
     "timeDay": 529,
     "timeWeek": 538,
     "timeMonth": 495,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2025-08-25": 1404,
+      "2025-08-26": 51,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -386,18 +387,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.subquery.network.ico",
     "slug": "subquery-graph-ql-api-nemeton-1",
     "status": "down",
-    "uptime": "95.29%",
+    "uptime": "95.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.75%",
-    "uptimeYear": "94.14%",
+    "uptimeMonth": "42.55%",
+    "uptimeYear": "94.12%",
     "time": 954,
     "timeDay": 853,
     "timeWeek": 1232,
     "timeMonth": 1203,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2025-08-25": 1404,
+      "2025-08-26": 51,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
