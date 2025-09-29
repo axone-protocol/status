@@ -13,8 +13,6 @@ sites:
     url: "https://explore.axone.xyz"
   - name: KatAI Landing Page
     url: "https://katai.axone.xyz"
-  - name: KatAI backend
-    url: "https://api.katai.axone.xyz"
     headers:
       - "Accept: application/json"
       - "Content-Type: application/json"
