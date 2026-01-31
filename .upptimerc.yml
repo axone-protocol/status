@@ -17,15 +17,6 @@ sites:
       - 401
   - name: Nemeton Program Web Site
     url: "https://nemeton.okp4.network"
-  - name: Subquery GraphQL API nemeton-1
-    method: POST
-    url: "https://api.subquery.network/sq/okp4/nemeton-1"
-    headers:
-      - "Accept: application/json"
-      - "Content-Type: application/json"
-      - "Host: api.subquery.network"
-    body: '{ "query": "{blocks(last: 1) { nodes { chainId height } } }" }'
-    __dangerous__body_degraded: errors
 
 status-website:
   cname: status.axone.xyz
