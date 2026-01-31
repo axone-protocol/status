@@ -11,13 +11,6 @@ sites:
     url: "https://faucet.axone.xyz"
   - name: Axone Explorer
     url: "https://explore.axone.xyz"
-  - name: KatAI Landing Page
-    url: "https://katai.axone.xyz"
-    headers:
-      - "Accept: application/json"
-      - "Content-Type: application/json"
-    body: "query { noop }"
-    __dangerous__body_degraded: errors
   - name: S3 Axone
     url: "https://s3.axone.xyz/you_shall_not_pass.gandalf"
     expectedStatusCodes:
