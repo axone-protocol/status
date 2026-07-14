@@ -11,6 +11,8 @@ sites:
     url: "https://faucet.axone.xyz"
   - name: Axone Explorer
     url: "https://explore.axone.xyz"
+  - name: Axone Surface
+    url: "https://surface.axone.xyz"
   - name: S3 Axone
     url: "https://s3.axone.xyz/you_shall_not_pass.gandalf"
     expectedStatusCodes:
