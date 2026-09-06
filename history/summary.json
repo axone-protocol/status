@@ -4,16 +4,16 @@
     "url": "https://axone.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/axone.xyz.ico",
     "slug": "axone-web-site",
-    "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.94%",
-    "uptimeYear": "98.46%",
-    "time": 490,
-    "timeDay": 1494,
-    "timeWeek": 884,
-    "timeMonth": 512,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "78.96%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "84.25%",
+    "uptimeYear": "98.40%",
+    "time": 489,
+    "timeDay": 1152,
+    "timeWeek": 838,
+    "timeMonth": 511,
     "timeYear": 449,
     "dailyMinutesDown": {
       "2025-10-16": 19,
@@ -26,7 +26,8 @@
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
-      "2026-08-24": 934
+      "2026-08-24": 934,
+      "2026-09-06": 303
     }
   },
   {
