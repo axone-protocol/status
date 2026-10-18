@@ -83,13 +83,13 @@
     "url": "https://faucet.axone.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/faucet.axone.xyz.ico",
     "slug": "axone-faucet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 616,
+    "time": 614,
     "timeDay": 327,
     "timeWeek": 488,
     "timeMonth": 580,
@@ -97,7 +97,8 @@
     "dailyMinutesDown": {
       "2026-03-19": 43,
       "2026-08-31": 374,
-      "2026-08-30": 1003
+      "2026-08-30": 1003,
+      "2026-10-18": 1
     }
   },
   {
@@ -105,13 +106,13 @@
     "url": "https://explore.axone.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/explore.axone.xyz.ico",
     "slug": "axone-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 457,
+    "time": 458,
     "timeDay": 331,
     "timeWeek": 465,
     "timeMonth": 466,
@@ -120,7 +121,8 @@
       "2025-12-22": 34,
       "2026-03-19": 43,
       "2026-08-31": 374,
-      "2026-08-30": 998
+      "2026-08-30": 998,
+      "2026-10-18": 1
     }
   },
   {
@@ -146,13 +148,13 @@
     "url": "https://s3.axone.xyz/you_shall_not_pass.gandalf",
     "icon": "https://icons.duckduckgo.com/ip3/s3.axone.xyz.ico",
     "slug": "s3-axone",
-    "status": "up",
+    "status": "down",
     "uptime": "95.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 463,
+    "time": 464,
     "timeDay": 313,
     "timeWeek": 454,
     "timeMonth": 453,
@@ -160,7 +162,8 @@
     "dailyMinutesDown": {
       "2026-03-19": 42,
       "2026-08-31": 374,
-      "2026-08-30": 994
+      "2026-08-30": 994,
+      "2026-10-18": 1
     }
   },
   {
@@ -168,13 +171,13 @@
     "url": "https://nemeton.okp4.network",
     "icon": "https://icons.duckduckgo.com/ip3/nemeton.okp4.network.ico",
     "slug": "nemeton-program-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 928,
+    "time": 929,
     "timeDay": 536,
     "timeWeek": 816,
     "timeMonth": 925,
@@ -182,7 +185,8 @@
     "dailyMinutesDown": {
       "2026-03-19": 42,
       "2026-08-31": 374,
-      "2026-08-30": 989
+      "2026-08-30": 989,
+      "2026-10-18": 0
     }
   }
 ]
